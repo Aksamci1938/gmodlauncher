@@ -1,0 +1,11 @@
+C:\Users\Taha\source\repos\gmodlauncher\gmodlauncher\bin\Debug\gmodlauncher.exe.config
+C:\Users\Taha\source\repos\gmodlauncher\gmodlauncher\bin\Debug\gmodlauncher.exe
+C:\Users\Taha\source\repos\gmodlauncher\gmodlauncher\bin\Debug\gmodlauncher.pdb
+C:\Users\Taha\source\repos\gmodlauncher\gmodlauncher\obj\Debug\gmodlauncher.csproj.AssemblyReference.cache
+C:\Users\Taha\source\repos\gmodlauncher\gmodlauncher\obj\Debug\gmodlauncher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Taha\source\repos\gmodlauncher\gmodlauncher\obj\Debug\gmodlauncher.Form1.resources
+C:\Users\Taha\source\repos\gmodlauncher\gmodlauncher\obj\Debug\gmodlauncher.Properties.Resources.resources
+C:\Users\Taha\source\repos\gmodlauncher\gmodlauncher\obj\Debug\gmodlauncher.csproj.GenerateResource.cache
+C:\Users\Taha\source\repos\gmodlauncher\gmodlauncher\obj\Debug\gmodlauncher.csproj.CoreCompileInputs.cache
+C:\Users\Taha\source\repos\gmodlauncher\gmodlauncher\obj\Debug\gmodlauncher.exe
+C:\Users\Taha\source\repos\gmodlauncher\gmodlauncher\obj\Debug\gmodlauncher.pdb
